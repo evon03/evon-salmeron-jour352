@@ -7,6 +7,8 @@ BODY {
   font-weight: 400;
 }
 
+/* name banner */
+
 h1 {
     font-size: 3em;
     text-transform: uppercase;
@@ -14,11 +16,15 @@ h1 {
     color: #33485e;
 }
 
+/* title */
+
 strong {
     color: #33485e;
     text-transform: uppercase;
     font-size: 1.5em;
 }
+
+/* section banners */
 
 h2 {
     font-size: 1.5em;
@@ -27,21 +33,29 @@ h2 {
     color: #fff;
 }
 
+/* job titles */
+
 h3 {
     font-size: 1.5em;
     font-weight: 600;
 }
+
+/* job organizations */
 
 h4 {
     font-size: 1.5em;
     font-weight: 400; 
 }
 
+/* job dates */
+
 h5 {
     font-size: 1em;
     font-weight: 400;
     font-style: italic;
 }
+
+/* list items */
 
 ul {
     font-size: 1em;
