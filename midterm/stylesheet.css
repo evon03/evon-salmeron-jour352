@@ -1,0 +1,71 @@
+/*style*/
+
+/*masthead*/
+#header {
+    background: #4A95E0;
+    height: 50px;
+    padding: 50px 50px;
+}
+
+h1 {
+    color: white;
+    font-family: 'Almendra Display', serif;
+    font-weight: lighter;    
+    font-size: 100px;
+    text-align: center;
+    margin-top: -35px;
+}
+
+
+/*image*/
+
+img {
+    margin-left: -45px;
+    width: 900px;
+    height: auto;
+}
+
+figcaption {
+    color: #5C748B;
+    font-weight: lighter;
+}
+
+/*content*/
+
+#content {
+    margin: 0 auto;
+    width: 900px;
+}
+
+/*article*/
+
+h2 {
+    font-size: 50px;
+    font-family: Garamond, serif;
+}
+
+h3 {
+    font-weight: 10;
+    font-family: Garamond, serif;
+    font-style: italic;
+}
+
+#byline {
+    font-family: Helvetica, Arial, sans-serif;
+    font-size: 14px;
+}
+
+#date {
+    font-family: Helvetica, Arial, sans-serif;
+    font-size: 14px;
+}
+
+h4 {
+    font-size: 25px; 
+    font-family: 'Times New Roman', serif;  
+}
+
+p {
+    font-size: 14px;
+    font-family: Helvetica, Arial, sans-serif;
+}
