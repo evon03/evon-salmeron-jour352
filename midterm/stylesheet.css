@@ -28,6 +28,7 @@ img {
 figcaption {
     color: #5C748B;
     font-weight: lighter;
+    font-size: 14px;
 }
 
 /*content*/
@@ -68,6 +69,21 @@ h4 {
 p {
     font-size: 14px;
     font-family: Helvetica, Arial, sans-serif;
+}
+
+.pquote {
+    float: left;
+    width: 100px;
+    background: #78a3cf;
+    font-weight: lighter;
+    font-family: 'Bellefair', serif;
+    color: white;
+    padding: 13px;
+    margin: 0 13px 13px 0;
+}
+
+blockquote {
+    margin: 0;
 }
 
 h5 {
